@@ -7,7 +7,7 @@ const groundY = 220;
 // FOTO PASANGAN
 // =========================
 const playerImg = new Image();
-playerImg.src = "annisa.png";
+playerImg.src = "Ratna.png";
 // =========================
 // PLAYER
 // =========================
